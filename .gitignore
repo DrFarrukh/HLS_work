@@ -1,0 +1,6 @@
+*/
+!README
+!*.ipynb
+!*.png
+*.py
+*.md
